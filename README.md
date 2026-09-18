@@ -1,6 +1,7 @@
 # Loan Prediction System
 
 A Machine Learning project that predicts whether a loan application will be approved or not based on applicant and loan-related information.
+https://loanprediction-amykjgxvnjtuwpfbxvxd3l.streamlit.app/
 
 ## Project Overview
 
